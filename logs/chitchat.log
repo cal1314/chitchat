@@ -1,0 +1,3 @@
+WARNING2022/12/29 23:01:31 helper.go:69: <nil> failed to get cookie
+ERROR 2022/12/29 23:01:38 helper.go:65: sql: no rows in result set cannot find user
+ERROR 2022/12/30 11:53:11 helper.go:65: sql: no rows in result set cannot find user
